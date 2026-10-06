@@ -1,0 +1,13 @@
+{
+  "name": "pstack-portable",
+  "owner": {
+    "name": "sonusharma26"
+  },
+  "plugins": [
+    {
+      "name": "pstack",
+      "source": "./dist/claude-code",
+      "description": "Portable pstack engineering workflows for Claude Code."
+    }
+  ]
+}

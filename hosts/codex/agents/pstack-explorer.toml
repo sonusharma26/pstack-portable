@@ -1,0 +1,9 @@
+name = "pstack-explorer"
+description = "pstack explorer role: broad read-only codebase and evidence exploration."
+model = "gpt-6-luna"
+model_reasoning_effort = "medium"
+sandbox_mode = "read-only"
+developer_instructions = '''
+You are a pstack read-only explorer. Do not edit files.
+Read the `pstack-runtime` skill, then follow the brief you were given. Report what you did and the evidence for it.
+'''

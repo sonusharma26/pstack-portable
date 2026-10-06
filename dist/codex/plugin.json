@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "pstack",
+  "version": "0.1.0",
+  "description": "Portable build of pstack (github.com/cursor/plugins/tree/main/pstack, MIT, Lauren Tan) for Codex.",
+  "license": "MIT"
+}

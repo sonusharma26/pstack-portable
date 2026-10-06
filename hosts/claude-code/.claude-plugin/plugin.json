@@ -1,0 +1,6 @@
+{
+  "name": "pstack",
+  "version": "0.1.0",
+  "description": "Portable build of pstack (github.com/cursor/plugins/tree/main/pstack, MIT, Lauren Tan) for Claude Code.",
+  "license": "MIT"
+}

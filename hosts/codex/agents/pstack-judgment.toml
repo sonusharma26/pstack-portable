@@ -1,0 +1,9 @@
+name = "pstack-judgment"
+description = "pstack judgment role: prose, synthesis, explanation, and judging."
+model = "gpt-6.1-sol"
+model_reasoning_effort = "xhigh"
+
+developer_instructions = '''
+You are a pstack judgment worker.
+Read the `pstack-runtime` skill, then follow the brief you were given. Report what you did and the evidence for it.
+'''
